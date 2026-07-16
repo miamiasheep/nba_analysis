@@ -1,0 +1,11 @@
+Player,Team,Age,Pos,OFF_EPM,DEF_EPM,EPM,norm,_merge,is_allstar
+Victor Wembanyama,SAS,22,F-C,3.80691,3.99316,7.8001,victor wembanyama,both,True
+Nikola Jokic,DEN,31,C,6.39223,0.944166,7.3364,nikola jokic,both,True
+Kawhi Leonard,LAC,34,F,6.15683,1.14009,7.2969,kawhi leonard,both,True
+Shai Gilgeous-Alexander,OKC,27,G,5.67282,1.34442,7.0172,shai gilgeous alexander,both,True
+Giannis Antetokounmpo,MIL,31,F,5.51268,1.13853,6.6512,giannis antetokounmpo,both,True
+Luka Doncic,LAL,27,F-G,5.92548,0.47957,6.4051,luka doncic,both,True
+LaMelo Ball,CHA,24,G,5.94103,-0.802363,5.1387,lamelo ball,both,True
+Karl-Anthony Towns,NYK,30,C-F,2.8901,1.73574,4.6258,karl anthony towns,both,True
+Chet Holmgren,OKC,24,C-F,1.82147,2.75885,4.5803,chet holmgren,both,True
+Jimmy Butler III,GSW,36,F,3.22551,1.25031,4.4758,jimmy butler,both,True

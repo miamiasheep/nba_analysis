@@ -1,0 +1,11 @@
+Player,Team,Age,Pos,OFF_EPM,DEF_EPM,EPM,norm,_merge,is_allstar
+Larry Nance Jr.,CLE,33,F-C,-2.31667,-0.567006,-2.8837,larry nance,both,True
+DeAndre Jordan,NOP,37,C,-2.32766,-0.539012,-2.8667,deandre jordan,both,True
+Kyle Lowry,PHI,40,G,-2.38892,-0.444054,-2.833,kyle lowry,both,True
+Chris Paul,TOR,41,G,-1.2093,-0.792107,-2.0014,chris paul,both,True
+Khris Middleton,DAL,34,F,-0.696075,-1.09945,-1.7955,khris middleton,both,True
+Draymond Green,GSW,36,F,-2.56441,0.816408,-1.748,draymond green,both,True
+Russell Westbrook,SAC,37,G,-1.06281,-0.584837,-1.6476,russell westbrook,both,True
+Andre Drummond,PHI,32,C,-1.74447,0.23611,-1.5084,andre drummond,both,True
+Tim Hardaway Jr.,DEN,34,G-F,-0.246926,-1.15148,-1.3984,tim hardaway,both,True
+Bradley Beal,LAC,32,G,-0.36078,-0.721684,-1.0825,bradley beal,both,True

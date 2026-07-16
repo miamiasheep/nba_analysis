@@ -1,0 +1,31 @@
+Player,Team,Age,Pos,OFF_EPM,DEF_EPM,EPM,norm,_merge,is_allstar
+Ty Jerome,MEM,28,G-F,5.17287,-0.120549,5.0523,ty jerome,left_only,False
+Franz Wagner,ORL,24,F,1.86643,1.87549,3.7419,franz wagner,left_only,False
+Paul Reed,DET,26,F,1.56443,1.90927,3.4737,paul reed,left_only,False
+Dyson Daniels,ATL,23,G,0.866059,2.59648,3.4625,dyson daniels,left_only,False
+Ausar Thompson,DET,23,G-F,-0.49931,3.6449,3.1456,ausar thompson,left_only,False
+Isaiah Hartenstein,OKC,28,C-F,1.10541,2.01305,3.1185,isaiah hartenstein,left_only,False
+Ajay Mitchell,OKC,23,G,1.07099,2.02456,3.0955,ajay mitchell,left_only,False
+Neemias Queta,BOS,26,C,1.08117,1.95386,3.035,neemias queta,left_only,False
+Amen Thompson,HOU,23,G-F,1.38704,1.60718,2.9942,amen thompson,left_only,False
+Derrick White,BOS,31,G,0.779366,2.0854,2.8648,derrick white,left_only,False
+Alex Caruso,OKC,32,G,-0.784997,3.40486,2.6199,alex caruso,left_only,False
+Donovan Clingan,POR,22,C,1.90969,0.705737,2.6154,donovan clingan,left_only,False
+Kon Knueppel,CHA,20,G-F,2.6601,-0.0534669,2.6066,kon knueppel,left_only,False
+Brandon Miller,CHA,23,F,2.06189,0.498765,2.5607,brandon miller,left_only,False
+Payton Pritchard,BOS,28,G,3.0666,-0.513765,2.5528,payton pritchard,left_only,False
+OG Anunoby,NYK,28,F-G,1.46228,1.05163,2.5139,og anunoby,left_only,False
+Michael Porter Jr.,BKN,27,F,3.62862,-1.15357,2.4751,michael porter,left_only,False
+Austin Reaves,LAL,28,G,2.4529,-0.114192,2.3387,austin reaves,left_only,False
+Dylan Harper,SAS,20,G,0.453827,1.72012,2.1739,dylan harper,left_only,False
+Moses Moody,GSW,24,G,0.505622,1.63817,2.1438,moses moody,left_only,False
+Stephon Castle,SAS,21,G,0.984258,1.14777,2.132,stephon castle,left_only,False
+Grayson Allen,PHX,30,G,2.67663,-0.578337,2.0983,grayson allen,left_only,False
+Coby White,CHA,26,G,2.93299,-0.835136,2.0978,coby white,left_only,False
+Cason Wallace,OKC,22,G,-0.93724,2.96292,2.0257,cason wallace,left_only,False
+Julian Champagnie,SAS,24,F,1.5618,0.345292,1.9071,julian champagnie,left_only,False
+Tobias Harris,DET,33,F,1.1509,0.708666,1.8596,tobias harris,left_only,False
+Mitchell Robinson,NYK,28,C-F,0.293798,1.51265,1.8064,mitchell robinson,left_only,False
+Desmond Bane,ORL,27,G,1.84537,-0.0709625,1.7744,desmond bane,left_only,False
+Marcus Smart,LAL,32,G,-0.415325,2.09599,1.6807,marcus smart,left_only,False
+Collin Gillespie,PHX,26,G,1.02844,0.63178,1.6602,collin gillespie,left_only,False
